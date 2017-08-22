@@ -11,10 +11,11 @@ body {
 }
 header {
 	background-color: #F15B31;
-	padding; 30px 20px 20px 0px;
+	padding: 30px 20px 20px 0px;
 }
 h1 {
 	font-family: Raleway;
+	text-transform: uppercase;
 	color: white;
 	letter-spacing: 1px;
 	font-weight: 400;
@@ -37,6 +38,10 @@ h2 {
 	letter-spacing: 1px;
 	font-weight: 600;
 	font-size: 20px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	text-transform: uppercase;
+
 }
 .paragraph {
 	font-family: "Droid serif";
@@ -54,7 +59,7 @@ a {
 }
 footer {
 	text-transform: uppercase;
-	padding: 0px 20px;
+	padding: 20px 20px;
 	background-color:#0D2C40;
 	color: white;
 	font-size: 14px;
